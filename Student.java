@@ -1,4 +1,4 @@
-Public class Student{
+public class Student{
 
     public Student(){
         System.out.println("creating student obj");
