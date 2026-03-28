@@ -5,6 +5,6 @@ Public class Student{
     }
 
     public void sayHello(){
-        System.out.println("I am student")
+        System.out.println("I am student");
     }
 }
