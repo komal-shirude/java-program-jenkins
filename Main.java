@@ -6,7 +6,7 @@ public class Main{
 		System.out.println("Hello");
 		System.out.println("Add one more line to test");
 	    System.out.println("One more added");
-
-
+        Student st = new Student();
+        st.sayHello();
 	}
 }
